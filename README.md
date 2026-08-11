@@ -4,6 +4,8 @@ A full-stack mock coding interview platform that generates role-specific
 coding questions in real time and evaluates submitted solutions using 
 an LLM (Groq).
 
+![App Screenshot](screenshot.png)
+
 ## Features
 - Dynamic question generation tailored to role and company
 - Live code editor supporting JavaScript, Python, Java, and C++
